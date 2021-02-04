@@ -5,7 +5,7 @@ Calculator_RPN
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [How to use](#How to use)
+* [How to use](#how to use)
 * [Features](#features)
 * [Status](#status)
 * [Test](#test)
